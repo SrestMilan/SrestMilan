@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **shrestham780@gmail.com**
 
-- ⚡ Fun fact **I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/milan-shrestha-259630207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/milan-shrestha-259630207" height="30" width="40" /></a>
