@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 💬 Ask me about **SQL, JavaScript, **
+- 💬 Ask me about **SQL**, **JavaScript**
 
 - 📫 How to reach me **shrestham780@gmail.com**
 
